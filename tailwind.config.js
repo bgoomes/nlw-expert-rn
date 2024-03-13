@@ -12,8 +12,7 @@ module.exports = {
         body: "Inter_400Regular",
         bold: "Inter_700Bold",
       }
-    },
+    }
   },
   plugins: [],
 }
-
